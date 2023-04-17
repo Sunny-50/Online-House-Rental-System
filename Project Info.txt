@@ -1,0 +1,4 @@
+admin credential
+
+username = admin
+password = password123
